@@ -299,7 +299,7 @@ data.frame(x)
 
 ## References
 
-1. Statistics Canada (2022). *Immigrants make up the largest share of the population in over 150 years and continue to shape who we are as Canadians*. Retrieved November 22, 2022 from         https://www150.statcan.gc.ca/n1/daily-quotidien/221026/dq221026a-eng.htm
+1. Statistics Canada (2022). *Immigrants make up the largest share of the population in over 150 years and continue to shape who we are as Canadians*. Retrieved November 22, 2022 from         https://www150.statcan.gc.ca/n1/daily-quotidien/221026/dq221026a-eng.htm.
 
 
 2. Loriggio, P., (2022). *Toronto police chief apologizes to Black community as race-based data released*.
