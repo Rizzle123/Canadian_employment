@@ -1,0 +1,865 @@
+ID,Education qualification,Area of study,Sex,Year,sum_of_graduates,sum_of_median_income
+1,"Career, technical or professional training certificate",Education,Male,2010,100,43900
+2,"Career, technical or professional training certificate","Visual and performing arts, and communications technologies",Male,2010,310,36600
+3,"Career, technical or professional training certificate",Humanities,Male,2010,20,45500
+4,"Career, technical or professional training certificate",Social and behavioural sciences and law,Male,2010,80,45100
+5,"Career, technical or professional training certificate","Business, management and public administration",Male,2010,550,58300
+6,"Career, technical or professional training certificate",Physical and life sciences and technologies,Male,2010,10,NA
+7,"Career, technical or professional training certificate","Mathematics, computer and information sciences",Male,2010,350,57600
+8,"Career, technical or professional training certificate","Architecture, engineering, and related technologies",Male,2010,6170,59600
+9,"Career, technical or professional training certificate","Agriculture, natural resources and conservation",Male,2010,230,59100
+10,"Career, technical or professional training certificate",Health and related fields,Male,2010,920,57200
+11,"Career, technical or professional training certificate","Personal, protective and transportation services",Male,2010,1220,59100
+12,"Career, technical or professional training certificate",Other instructional programs,Male,2010,NA,NA
+13,"Career, technical or professional training diploma",Education,Male,2010,300,63200
+14,"Career, technical or professional training diploma","Visual and performing arts, and communications technologies",Male,2010,680,37900
+15,"Career, technical or professional training diploma",Humanities,Male,2010,130,41300
+16,"Career, technical or professional training diploma",Social and behavioural sciences and law,Male,2010,400,47300
+17,"Career, technical or professional training diploma","Business, management and public administration",Male,2010,3260,52100
+18,"Career, technical or professional training diploma",Physical and life sciences and technologies,Male,2010,210,54000
+19,"Career, technical or professional training diploma","Mathematics, computer and information sciences",Male,2010,710,53700
+20,"Career, technical or professional training diploma","Architecture, engineering, and related technologies",Male,2010,4420,65800
+21,"Career, technical or professional training diploma","Agriculture, natural resources and conservation",Male,2010,420,53100
+22,"Career, technical or professional training diploma",Health and related fields,Male,2010,1090,62300
+23,"Career, technical or professional training diploma","Personal, protective and transportation services",Male,2010,1190,64500
+24,"Career, technical or professional training diploma",Other instructional programs,Male,2010,NA,NA
+25,Undergraduate degree,Education,Male,2010,4110,63100
+26,Undergraduate degree,"Visual and performing arts, and communications technologies",Male,2010,1610,40100
+27,Undergraduate degree,Humanities,Male,2010,4120,50200
+28,Undergraduate degree,Social and behavioural sciences and law,Male,2010,7870,56200
+29,Undergraduate degree,"Business, management and public administration",Male,2010,11600,67700
+30,Undergraduate degree,Physical and life sciences and technologies,Male,2010,3400,60100
+31,Undergraduate degree,"Mathematics, computer and information sciences",Male,2010,2130,72800
+32,Undergraduate degree,"Architecture, engineering, and related technologies",Male,2010,8050,80300
+33,Undergraduate degree,"Agriculture, natural resources and conservation",Male,2010,740,64300
+34,Undergraduate degree,Health and related fields,Male,2010,2680,66500
+35,Undergraduate degree,"Personal, protective and transportation services",Male,2010,320,71400
+36,Undergraduate degree,Other instructional programs,Male,2010,340,58000
+37,Professional degree,Education,Male,2010,NA,NA
+38,Professional degree,"Visual and performing arts, and communications technologies",Male,2010,NA,NA
+39,Professional degree,Humanities,Male,2010,NA,NA
+40,Professional degree,Social and behavioural sciences and law,Male,2010,1270,103800
+41,Professional degree,"Business, management and public administration",Male,2010,NA,NA
+42,Professional degree,Physical and life sciences and technologies,Male,2010,NA,NA
+43,Professional degree,"Mathematics, computer and information sciences",Male,2010,NA,NA
+44,Professional degree,"Architecture, engineering, and related technologies",Male,2010,NA,NA
+45,Professional degree,"Agriculture, natural resources and conservation",Male,2010,NA,NA
+46,Professional degree,Health and related fields,Male,2010,1220,113200
+47,Professional degree,"Personal, protective and transportation services",Male,2010,NA,NA
+48,Professional degree,Other instructional programs,Male,2010,NA,NA
+49,Master's degree,Education,Male,2010,920,98100
+50,Master's degree,"Visual and performing arts, and communications technologies",Male,2010,230,39400
+51,Master's degree,Humanities,Male,2010,570,52300
+52,Master's degree,Social and behavioural sciences and law,Male,2010,1290,72900
+53,Master's degree,"Business, management and public administration",Male,2010,4410,103700
+54,Master's degree,Physical and life sciences and technologies,Male,2010,720,67600
+55,Master's degree,"Mathematics, computer and information sciences",Male,2010,830,81900
+56,Master's degree,"Architecture, engineering, and related technologies",Male,2010,2460,82800
+57,Master's degree,"Agriculture, natural resources and conservation",Male,2010,330,71600
+58,Master's degree,Health and related fields,Male,2010,680,86800
+59,Master's degree,"Personal, protective and transportation services",Male,2010,40,110000
+60,Master's degree,Other instructional programs,Male,2010,40,73400
+61,Doctoral degree,Education,Male,2010,90,105500
+62,Doctoral degree,"Visual and performing arts, and communications technologies",Male,2010,30,71200
+63,Doctoral degree,Humanities,Male,2010,160,77600
+64,Doctoral degree,Social and behavioural sciences and law,Male,2010,280,94600
+65,Doctoral degree,"Business, management and public administration",Male,2010,80,125700
+66,Doctoral degree,Physical and life sciences and technologies,Male,2010,570,72300
+67,Doctoral degree,"Mathematics, computer and information sciences",Male,2010,180,102100
+68,Doctoral degree,"Architecture, engineering, and related technologies",Male,2010,560,101500
+69,Doctoral degree,"Agriculture, natural resources and conservation",Male,2010,90,77000
+70,Doctoral degree,Health and related fields,Male,2010,160,98900
+71,Doctoral degree,"Personal, protective and transportation services",Male,2010,0,NA
+72,Doctoral degree,Other instructional programs,Male,2010,20,NA
+73,"Career, technical or professional training certificate",Education,Female,2010,730,32500
+74,"Career, technical or professional training certificate","Visual and performing arts, and communications technologies",Female,2010,410,35300
+75,"Career, technical or professional training certificate",Humanities,Female,2010,120,30500
+76,"Career, technical or professional training certificate",Social and behavioural sciences and law,Female,2010,1150,37800
+77,"Career, technical or professional training certificate","Business, management and public administration",Female,2010,2630,43500
+78,"Career, technical or professional training certificate",Physical and life sciences and technologies,Female,2010,10,NA
+79,"Career, technical or professional training certificate","Mathematics, computer and information sciences",Female,2010,170,39500
+80,"Career, technical or professional training certificate","Architecture, engineering, and related technologies",Female,2010,600,40100
+81,"Career, technical or professional training certificate","Agriculture, natural resources and conservation",Female,2010,180,31400
+82,"Career, technical or professional training certificate",Health and related fields,Female,2010,5140,42000
+83,"Career, technical or professional training certificate","Personal, protective and transportation services",Female,2010,980,29100
+84,"Career, technical or professional training certificate",Other instructional programs,Female,2010,NA,NA
+85,"Career, technical or professional training diploma",Education,Female,2010,1130,37600
+86,"Career, technical or professional training diploma","Visual and performing arts, and communications technologies",Female,2010,1490,34300
+87,"Career, technical or professional training diploma",Humanities,Female,2010,210,37100
+88,"Career, technical or professional training diploma",Social and behavioural sciences and law,Female,2010,2020,36900
+89,"Career, technical or professional training diploma","Business, management and public administration",Female,2010,5600,43000
+90,"Career, technical or professional training diploma",Physical and life sciences and technologies,Female,2010,210,43900
+91,"Career, technical or professional training diploma","Mathematics, computer and information sciences",Female,2010,340,41100
+92,"Career, technical or professional training diploma","Architecture, engineering, and related technologies",Female,2010,890,54900
+93,"Career, technical or professional training diploma","Agriculture, natural resources and conservation",Female,2010,390,37900
+94,"Career, technical or professional training diploma",Health and related fields,Female,2010,5980,50600
+95,"Career, technical or professional training diploma","Personal, protective and transportation services",Female,2010,750,45400
+96,"Career, technical or professional training diploma",Other instructional programs,Female,2010,NA,NA
+97,Undergraduate degree,Education,Female,2010,13220,52300
+98,Undergraduate degree,"Visual and performing arts, and communications technologies",Female,2010,3310,36800
+99,Undergraduate degree,Humanities,Female,2010,7800,46000
+100,Undergraduate degree,Social and behavioural sciences and law,Female,2010,17410,48400
+101,Undergraduate degree,"Business, management and public administration",Female,2010,14010,58600
+102,Undergraduate degree,Physical and life sciences and technologies,Female,2010,5080,55900
+103,Undergraduate degree,"Mathematics, computer and information sciences",Female,2010,660,59200
+104,Undergraduate degree,"Architecture, engineering, and related technologies",Female,2010,2040,68900
+105,Undergraduate degree,"Agriculture, natural resources and conservation",Female,2010,900,51800
+106,Undergraduate degree,Health and related fields,Female,2010,12160,70800
+107,Undergraduate degree,"Personal, protective and transportation services",Female,2010,390,53700
+108,Undergraduate degree,Other instructional programs,Female,2010,820,48700
+109,Professional degree,Education,Female,2010,NA,NA
+110,Professional degree,"Visual and performing arts, and communications technologies",Female,2010,NA,NA
+111,Professional degree,Humanities,Female,2010,NA,NA
+112,Professional degree,Social and behavioural sciences and law,Female,2010,1780,79900
+113,Professional degree,"Business, management and public administration",Female,2010,NA,NA
+114,Professional degree,Physical and life sciences and technologies,Female,2010,NA,NA
+115,Professional degree,"Mathematics, computer and information sciences",Female,2010,NA,NA
+116,Professional degree,"Architecture, engineering, and related technologies",Female,2010,NA,NA
+117,Professional degree,"Agriculture, natural resources and conservation",Female,2010,NA,NA
+118,Professional degree,Health and related fields,Female,2010,2130,96400
+119,Professional degree,"Personal, protective and transportation services",Female,2010,NA,NA
+120,Professional degree,Other instructional programs,Female,2010,NA,NA
+121,Master's degree,Education,Female,2010,2830,86600
+122,Master's degree,"Visual and performing arts, and communications technologies",Female,2010,420,30800
+123,Master's degree,Humanities,Female,2010,900,48900
+124,Master's degree,Social and behavioural sciences and law,Female,2010,2510,62200
+125,Master's degree,"Business, management and public administration",Female,2010,4180,81400
+126,Master's degree,Physical and life sciences and technologies,Female,2010,1020,59200
+127,Master's degree,"Mathematics, computer and information sciences",Female,2010,690,68800
+128,Master's degree,"Architecture, engineering, and related technologies",Female,2010,1020,64300
+129,Master's degree,"Agriculture, natural resources and conservation",Female,2010,560,60600
+130,Master's degree,Health and related fields,Female,2010,2920,77100
+131,Master's degree,"Personal, protective and transportation services",Female,2010,20,NA
+132,Master's degree,Other instructional programs,Female,2010,50,68900
+133,Doctoral degree,Education,Female,2010,170,96000
+134,Doctoral degree,"Visual and performing arts, and communications technologies",Female,2010,50,40300
+135,Doctoral degree,Humanities,Female,2010,180,71000
+136,Doctoral degree,Social and behavioural sciences and law,Female,2010,500,81300
+137,Doctoral degree,"Business, management and public administration",Female,2010,70,114200
+138,Doctoral degree,Physical and life sciences and technologies,Female,2010,490,63700
+139,Doctoral degree,"Mathematics, computer and information sciences",Female,2010,80,85300
+140,Doctoral degree,"Architecture, engineering, and related technologies",Female,2010,170,90100
+141,Doctoral degree,"Agriculture, natural resources and conservation",Female,2010,40,77300
+142,Doctoral degree,Health and related fields,Female,2010,240,98500
+143,Doctoral degree,"Personal, protective and transportation services",Female,2010,NA,NA
+144,Doctoral degree,Other instructional programs,Female,2010,20,101600
+1,"Career, technical or professional training certificate",Education,Male,2011,100,36900
+2,"Career, technical or professional training certificate","Visual and performing arts, and communications technologies",Male,2011,380,35600
+3,"Career, technical or professional training certificate",Humanities,Male,2011,40,42300
+4,"Career, technical or professional training certificate",Social and behavioural sciences and law,Male,2011,130,42700
+5,"Career, technical or professional training certificate","Business, management and public administration",Male,2011,690,47700
+6,"Career, technical or professional training certificate",Physical and life sciences and technologies,Male,2011,0,NA
+7,"Career, technical or professional training certificate","Mathematics, computer and information sciences",Male,2011,420,55700
+8,"Career, technical or professional training certificate","Architecture, engineering, and related technologies",Male,2011,8300,53600
+9,"Career, technical or professional training certificate","Agriculture, natural resources and conservation",Male,2011,270,51300
+10,"Career, technical or professional training certificate",Health and related fields,Male,2011,1260,56400
+11,"Career, technical or professional training certificate","Personal, protective and transportation services",Male,2011,1620,48400
+12,"Career, technical or professional training certificate",Other instructional programs,Male,2011,0,NA
+13,"Career, technical or professional training diploma",Education,Male,2011,250,56300
+14,"Career, technical or professional training diploma","Visual and performing arts, and communications technologies",Male,2011,900,38800
+15,"Career, technical or professional training diploma",Humanities,Male,2011,150,36700
+16,"Career, technical or professional training diploma",Social and behavioural sciences and law,Male,2011,500,48800
+17,"Career, technical or professional training diploma","Business, management and public administration",Male,2011,3800,50500
+18,"Career, technical or professional training diploma",Physical and life sciences and technologies,Male,2011,190,47900
+19,"Career, technical or professional training diploma","Mathematics, computer and information sciences",Male,2011,850,52000
+20,"Career, technical or professional training diploma","Architecture, engineering, and related technologies",Male,2011,5300,63700
+21,"Career, technical or professional training diploma","Agriculture, natural resources and conservation",Male,2011,570,52800
+22,"Career, technical or professional training diploma",Health and related fields,Male,2011,1210,60600
+23,"Career, technical or professional training diploma","Personal, protective and transportation services",Male,2011,1420,60200
+24,"Career, technical or professional training diploma",Other instructional programs,Male,2011,80,56500
+25,Undergraduate degree,Education,Male,2011,4380,62800
+26,Undergraduate degree,"Visual and performing arts, and communications technologies",Male,2011,1870,39100
+27,Undergraduate degree,Humanities,Male,2011,4530,47800
+28,Undergraduate degree,Social and behavioural sciences and law,Male,2011,8780,54300
+29,Undergraduate degree,"Business, management and public administration",Male,2011,13490,67700
+30,Undergraduate degree,Physical and life sciences and technologies,Male,2011,4060,57800
+31,Undergraduate degree,"Mathematics, computer and information sciences",Male,2011,2270,72100
+32,Undergraduate degree,"Architecture, engineering, and related technologies",Male,2011,8810,79100
+33,Undergraduate degree,"Agriculture, natural resources and conservation",Male,2011,880,60700
+34,Undergraduate degree,Health and related fields,Male,2011,3010,66200
+35,Undergraduate degree,"Personal, protective and transportation services",Male,2011,390,69200
+36,Undergraduate degree,Other instructional programs,Male,2011,380,55400
+37,Professional degree,Education,Male,2011,NA,NA
+38,Professional degree,"Visual and performing arts, and communications technologies",Male,2011,NA,NA
+39,Professional degree,Humanities,Male,2011,NA,NA
+40,Professional degree,Social and behavioural sciences and law,Male,2011,1440,99400
+41,Professional degree,"Business, management and public administration",Male,2011,NA,NA
+42,Professional degree,Physical and life sciences and technologies,Male,2011,NA,NA
+43,Professional degree,"Mathematics, computer and information sciences",Male,2011,NA,NA
+44,Professional degree,"Architecture, engineering, and related technologies",Male,2011,NA,NA
+45,Professional degree,"Agriculture, natural resources and conservation",Male,2011,NA,NA
+46,Professional degree,Health and related fields,Male,2011,1320,111900
+47,Professional degree,"Personal, protective and transportation services",Male,2011,NA,NA
+48,Professional degree,Other instructional programs,Male,2011,NA,NA
+49,Master's degree,Education,Male,2011,1030,98500
+50,Master's degree,"Visual and performing arts, and communications technologies",Male,2011,300,40600
+51,Master's degree,Humanities,Male,2011,600,49800
+52,Master's degree,Social and behavioural sciences and law,Male,2011,1490,71500
+53,Master's degree,"Business, management and public administration",Male,2011,4720,103100
+54,Master's degree,Physical and life sciences and technologies,Male,2011,840,67600
+55,Master's degree,"Mathematics, computer and information sciences",Male,2011,880,78400
+56,Master's degree,"Architecture, engineering, and related technologies",Male,2011,2830,81700
+57,Master's degree,"Agriculture, natural resources and conservation",Male,2011,340,70200
+58,Master's degree,Health and related fields,Male,2011,760,83400
+59,Master's degree,"Personal, protective and transportation services",Male,2011,50,96600
+60,Master's degree,Other instructional programs,Male,2011,40,82700
+61,Doctoral degree,Education,Male,2011,80,102100
+62,Doctoral degree,"Visual and performing arts, and communications technologies",Male,2011,50,44200
+63,Doctoral degree,Humanities,Male,2011,190,71600
+64,Doctoral degree,Social and behavioural sciences and law,Male,2011,350,95200
+65,Doctoral degree,"Business, management and public administration",Male,2011,90,134500
+66,Doctoral degree,Physical and life sciences and technologies,Male,2011,590,73400
+67,Doctoral degree,"Mathematics, computer and information sciences",Male,2011,190,105300
+68,Doctoral degree,"Architecture, engineering, and related technologies",Male,2011,590,97000
+69,Doctoral degree,"Agriculture, natural resources and conservation",Male,2011,90,81800
+70,Doctoral degree,Health and related fields,Male,2011,150,101000
+71,Doctoral degree,"Personal, protective and transportation services",Male,2011,NA,NA
+72,Doctoral degree,Other instructional programs,Male,2011,0,NA
+73,"Career, technical or professional training certificate",Education,Female,2011,850,30000
+74,"Career, technical or professional training certificate","Visual and performing arts, and communications technologies",Female,2011,480,35700
+75,"Career, technical or professional training certificate",Humanities,Female,2011,110,38500
+76,"Career, technical or professional training certificate",Social and behavioural sciences and law,Female,2011,1480,36000
+77,"Career, technical or professional training certificate","Business, management and public administration",Female,2011,3310,39400
+78,"Career, technical or professional training certificate",Physical and life sciences and technologies,Female,2011,10,NA
+79,"Career, technical or professional training certificate","Mathematics, computer and information sciences",Female,2011,230,39900
+80,"Career, technical or professional training certificate","Architecture, engineering, and related technologies",Female,2011,760,41900
+81,"Career, technical or professional training certificate","Agriculture, natural resources and conservation",Female,2011,200,28800
+82,"Career, technical or professional training certificate",Health and related fields,Female,2011,6510,41400
+83,"Career, technical or professional training certificate","Personal, protective and transportation services",Female,2011,1170,29800
+84,"Career, technical or professional training certificate",Other instructional programs,Female,2011,NA,NA
+85,"Career, technical or professional training diploma",Education,Female,2011,1310,36600
+86,"Career, technical or professional training diploma","Visual and performing arts, and communications technologies",Female,2011,1590,33700
+87,"Career, technical or professional training diploma",Humanities,Female,2011,170,39800
+88,"Career, technical or professional training diploma",Social and behavioural sciences and law,Female,2011,2390,37000
+89,"Career, technical or professional training diploma","Business, management and public administration",Female,2011,6390,42900
+90,"Career, technical or professional training diploma",Physical and life sciences and technologies,Female,2011,230,42000
+91,"Career, technical or professional training diploma","Mathematics, computer and information sciences",Female,2011,390,43900
+92,"Career, technical or professional training diploma","Architecture, engineering, and related technologies",Female,2011,1030,51700
+93,"Career, technical or professional training diploma","Agriculture, natural resources and conservation",Female,2011,410,38900
+94,"Career, technical or professional training diploma",Health and related fields,Female,2011,6780,50800
+95,"Career, technical or professional training diploma","Personal, protective and transportation services",Female,2011,800,42000
+96,"Career, technical or professional training diploma",Other instructional programs,Female,2011,20,NA
+97,Undergraduate degree,Education,Female,2011,13360,53200
+98,Undergraduate degree,"Visual and performing arts, and communications technologies",Female,2011,3860,35100
+99,Undergraduate degree,Humanities,Female,2011,8530,45500
+100,Undergraduate degree,Social and behavioural sciences and law,Female,2011,18920,48300
+101,Undergraduate degree,"Business, management and public administration",Female,2011,15760,58300
+102,Undergraduate degree,Physical and life sciences and technologies,Female,2011,5690,54200
+103,Undergraduate degree,"Mathematics, computer and information sciences",Female,2011,680,63800
+104,Undergraduate degree,"Architecture, engineering, and related technologies",Female,2011,2320,65600
+105,Undergraduate degree,"Agriculture, natural resources and conservation",Female,2011,1100,51400
+106,Undergraduate degree,Health and related fields,Female,2011,13220,70500
+107,Undergraduate degree,"Personal, protective and transportation services",Female,2011,380,53000
+108,Undergraduate degree,Other instructional programs,Female,2011,850,47400
+109,Professional degree,Education,Female,2011,NA,NA
+110,Professional degree,"Visual and performing arts, and communications technologies",Female,2011,NA,NA
+111,Professional degree,Humanities,Female,2011,NA,NA
+112,Professional degree,Social and behavioural sciences and law,Female,2011,1880,81500
+113,Professional degree,"Business, management and public administration",Female,2011,NA,NA
+114,Professional degree,Physical and life sciences and technologies,Female,2011,NA,NA
+115,Professional degree,"Mathematics, computer and information sciences",Female,2011,NA,NA
+116,Professional degree,"Architecture, engineering, and related technologies",Female,2011,NA,NA
+117,Professional degree,"Agriculture, natural resources and conservation",Female,2011,NA,NA
+118,Professional degree,Health and related fields,Female,2011,2290,98200
+119,Professional degree,"Personal, protective and transportation services",Female,2011,NA,NA
+120,Professional degree,Other instructional programs,Female,2011,NA,NA
+121,Master's degree,Education,Female,2011,3060,86100
+122,Master's degree,"Visual and performing arts, and communications technologies",Female,2011,470,33000
+123,Master's degree,Humanities,Female,2011,940,46100
+124,Master's degree,Social and behavioural sciences and law,Female,2011,2980,63300
+125,Master's degree,"Business, management and public administration",Female,2011,4550,80200
+126,Master's degree,Physical and life sciences and technologies,Female,2011,1060,58300
+127,Master's degree,"Mathematics, computer and information sciences",Female,2011,810,67300
+128,Master's degree,"Architecture, engineering, and related technologies",Female,2011,1150,66400
+129,Master's degree,"Agriculture, natural resources and conservation",Female,2011,540,55300
+130,Master's degree,Health and related fields,Female,2011,3360,74600
+131,Master's degree,"Personal, protective and transportation services",Female,2011,50,85300
+132,Master's degree,Other instructional programs,Female,2011,70,51800
+133,Doctoral degree,Education,Female,2011,210,100700
+134,Doctoral degree,"Visual and performing arts, and communications technologies",Female,2011,30,54200
+135,Doctoral degree,Humanities,Female,2011,190,71900
+136,Doctoral degree,Social and behavioural sciences and law,Female,2011,580,76100
+137,Doctoral degree,"Business, management and public administration",Female,2011,90,116800
+138,Doctoral degree,Physical and life sciences and technologies,Female,2011,500,67300
+139,Doctoral degree,"Mathematics, computer and information sciences",Female,2011,90,86700
+140,Doctoral degree,"Architecture, engineering, and related technologies",Female,2011,140,86400
+141,Doctoral degree,"Agriculture, natural resources and conservation",Female,2011,70,68200
+142,Doctoral degree,Health and related fields,Female,2011,270,97500
+143,Doctoral degree,"Personal, protective and transportation services",Female,2011,NA,NA
+144,Doctoral degree,Other instructional programs,Female,2011,20,NA
+1,"Career, technical or professional training certificate",Education,Male,2012,90,44200
+2,"Career, technical or professional training certificate","Visual and performing arts, and communications technologies",Male,2012,340,36500
+3,"Career, technical or professional training certificate",Humanities,Male,2012,30,35200
+4,"Career, technical or professional training certificate",Social and behavioural sciences and law,Male,2012,160,47200
+5,"Career, technical or professional training certificate","Business, management and public administration",Male,2012,710,51200
+6,"Career, technical or professional training certificate",Physical and life sciences and technologies,Male,2012,NA,NA
+7,"Career, technical or professional training certificate","Mathematics, computer and information sciences",Male,2012,410,54400
+8,"Career, technical or professional training certificate","Architecture, engineering, and related technologies",Male,2012,8010,53900
+9,"Career, technical or professional training certificate","Agriculture, natural resources and conservation",Male,2012,190,51900
+10,"Career, technical or professional training certificate",Health and related fields,Male,2012,1280,55600
+11,"Career, technical or professional training certificate","Personal, protective and transportation services",Male,2012,1430,47400
+12,"Career, technical or professional training certificate",Other instructional programs,Male,2012,10,NA
+13,"Career, technical or professional training diploma",Education,Male,2012,300,63500
+14,"Career, technical or professional training diploma","Visual and performing arts, and communications technologies",Male,2012,810,38000
+15,"Career, technical or professional training diploma",Humanities,Male,2012,180,43600
+16,"Career, technical or professional training diploma",Social and behavioural sciences and law,Male,2012,530,47900
+17,"Career, technical or professional training diploma","Business, management and public administration",Male,2012,4040,50000
+18,"Career, technical or professional training diploma",Physical and life sciences and technologies,Male,2012,180,49700
+19,"Career, technical or professional training diploma","Mathematics, computer and information sciences",Male,2012,860,52600
+20,"Career, technical or professional training diploma","Architecture, engineering, and related technologies",Male,2012,5440,64300
+21,"Career, technical or professional training diploma","Agriculture, natural resources and conservation",Male,2012,610,52300
+22,"Career, technical or professional training diploma",Health and related fields,Male,2012,1360,62600
+23,"Career, technical or professional training diploma","Personal, protective and transportation services",Male,2012,1520,62100
+24,"Career, technical or professional training diploma",Other instructional programs,Male,2012,80,61500
+25,Undergraduate degree,Education,Male,2012,4180,62900
+26,Undergraduate degree,"Visual and performing arts, and communications technologies",Male,2012,1990,40100
+27,Undergraduate degree,Humanities,Male,2012,4450,49100
+28,Undergraduate degree,Social and behavioural sciences and law,Male,2012,9400,56200
+29,Undergraduate degree,"Business, management and public administration",Male,2012,13740,67800
+30,Undergraduate degree,Physical and life sciences and technologies,Male,2012,4160,58500
+31,Undergraduate degree,"Mathematics, computer and information sciences",Male,2012,2280,74200
+32,Undergraduate degree,"Architecture, engineering, and related technologies",Male,2012,8870,79200
+33,Undergraduate degree,"Agriculture, natural resources and conservation",Male,2012,860,60300
+34,Undergraduate degree,Health and related fields,Male,2012,3270,66900
+35,Undergraduate degree,"Personal, protective and transportation services",Male,2012,410,73700
+36,Undergraduate degree,Other instructional programs,Male,2012,360,55500
+37,Professional degree,Education,Male,2012,NA,NA
+38,Professional degree,"Visual and performing arts, and communications technologies",Male,2012,NA,NA
+39,Professional degree,Humanities,Male,2012,NA,NA
+40,Professional degree,Social and behavioural sciences and law,Male,2012,1500,98200
+41,Professional degree,"Business, management and public administration",Male,2012,NA,NA
+42,Professional degree,Physical and life sciences and technologies,Male,2012,NA,NA
+43,Professional degree,"Mathematics, computer and information sciences",Male,2012,NA,NA
+44,Professional degree,"Architecture, engineering, and related technologies",Male,2012,NA,NA
+45,Professional degree,"Agriculture, natural resources and conservation",Male,2012,NA,NA
+46,Professional degree,Health and related fields,Male,2012,1320,111000
+47,Professional degree,"Personal, protective and transportation services",Male,2012,NA,NA
+48,Professional degree,Other instructional programs,Male,2012,NA,NA
+49,Master's degree,Education,Male,2012,940,96600
+50,Master's degree,"Visual and performing arts, and communications technologies",Male,2012,310,40100
+51,Master's degree,Humanities,Male,2012,600,52500
+52,Master's degree,Social and behavioural sciences and law,Male,2012,1560,71500
+53,Master's degree,"Business, management and public administration",Male,2012,5000,102800
+54,Master's degree,Physical and life sciences and technologies,Male,2012,960,68400
+55,Master's degree,"Mathematics, computer and information sciences",Male,2012,910,86300
+56,Master's degree,"Architecture, engineering, and related technologies",Male,2012,3200,82500
+57,Master's degree,"Agriculture, natural resources and conservation",Male,2012,400,71100
+58,Master's degree,Health and related fields,Male,2012,860,82500
+59,Master's degree,"Personal, protective and transportation services",Male,2012,40,88600
+60,Master's degree,Other instructional programs,Male,2012,60,82600
+61,Doctoral degree,Education,Male,2012,70,102100
+62,Doctoral degree,"Visual and performing arts, and communications technologies",Male,2012,40,47700
+63,Doctoral degree,Humanities,Male,2012,200,67300
+64,Doctoral degree,Social and behavioural sciences and law,Male,2012,300,94000
+65,Doctoral degree,"Business, management and public administration",Male,2012,70,134700
+66,Doctoral degree,Physical and life sciences and technologies,Male,2012,640,80300
+67,Doctoral degree,"Mathematics, computer and information sciences",Male,2012,200,101300
+68,Doctoral degree,"Architecture, engineering, and related technologies",Male,2012,640,97400
+69,Doctoral degree,"Agriculture, natural resources and conservation",Male,2012,80,65700
+70,Doctoral degree,Health and related fields,Male,2012,180,94500
+71,Doctoral degree,"Personal, protective and transportation services",Male,2012,NA,NA
+72,Doctoral degree,Other instructional programs,Male,2012,20,NA
+73,"Career, technical or professional training certificate",Education,Female,2012,740,31700
+74,"Career, technical or professional training certificate","Visual and performing arts, and communications technologies",Female,2012,500,34900
+75,"Career, technical or professional training certificate",Humanities,Female,2012,120,36800
+76,"Career, technical or professional training certificate",Social and behavioural sciences and law,Female,2012,1450,35300
+77,"Career, technical or professional training certificate","Business, management and public administration",Female,2012,3230,39800
+78,"Career, technical or professional training certificate",Physical and life sciences and technologies,Female,2012,NA,NA
+79,"Career, technical or professional training certificate","Mathematics, computer and information sciences",Female,2012,220,41900
+80,"Career, technical or professional training certificate","Architecture, engineering, and related technologies",Female,2012,800,41600
+81,"Career, technical or professional training certificate","Agriculture, natural resources and conservation",Female,2012,120,27700
+82,"Career, technical or professional training certificate",Health and related fields,Female,2012,6530,40600
+83,"Career, technical or professional training certificate","Personal, protective and transportation services",Female,2012,1280,29000
+84,"Career, technical or professional training certificate",Other instructional programs,Female,2012,0,NA
+85,"Career, technical or professional training diploma",Education,Female,2012,1330,37400
+86,"Career, technical or professional training diploma","Visual and performing arts, and communications technologies",Female,2012,1520,33900
+87,"Career, technical or professional training diploma",Humanities,Female,2012,260,38300
+88,"Career, technical or professional training diploma",Social and behavioural sciences and law,Female,2012,2360,37500
+89,"Career, technical or professional training diploma","Business, management and public administration",Female,2012,6430,42700
+90,"Career, technical or professional training diploma",Physical and life sciences and technologies,Female,2012,220,45000
+91,"Career, technical or professional training diploma","Mathematics, computer and information sciences",Female,2012,380,41400
+92,"Career, technical or professional training diploma","Architecture, engineering, and related technologies",Female,2012,910,51000
+93,"Career, technical or professional training diploma","Agriculture, natural resources and conservation",Female,2012,410,41300
+94,"Career, technical or professional training diploma",Health and related fields,Female,2012,7230,51800
+95,"Career, technical or professional training diploma","Personal, protective and transportation services",Female,2012,820,43200
+96,"Career, technical or professional training diploma",Other instructional programs,Female,2012,30,50100
+97,Undergraduate degree,Education,Female,2012,12870,53900
+98,Undergraduate degree,"Visual and performing arts, and communications technologies",Female,2012,3900,37700
+99,Undergraduate degree,Humanities,Female,2012,8300,46100
+100,Undergraduate degree,Social and behavioural sciences and law,Female,2012,19740,48600
+101,Undergraduate degree,"Business, management and public administration",Female,2012,16290,58600
+102,Undergraduate degree,Physical and life sciences and technologies,Female,2012,5800,56200
+103,Undergraduate degree,"Mathematics, computer and information sciences",Female,2012,710,60000
+104,Undergraduate degree,"Architecture, engineering, and related technologies",Female,2012,2350,69600
+105,Undergraduate degree,"Agriculture, natural resources and conservation",Female,2012,1250,52500
+106,Undergraduate degree,Health and related fields,Female,2012,13760,69600
+107,Undergraduate degree,"Personal, protective and transportation services",Female,2012,460,54900
+108,Undergraduate degree,Other instructional programs,Female,2012,800,49600
+109,Professional degree,Education,Female,2012,NA,NA
+110,Professional degree,"Visual and performing arts, and communications technologies",Female,2012,NA,NA
+111,Professional degree,Humanities,Female,2012,NA,NA
+112,Professional degree,Social and behavioural sciences and law,Female,2012,1930,81400
+113,Professional degree,"Business, management and public administration",Female,2012,NA,NA
+114,Professional degree,Physical and life sciences and technologies,Female,2012,NA,NA
+115,Professional degree,"Mathematics, computer and information sciences",Female,2012,NA,NA
+116,Professional degree,"Architecture, engineering, and related technologies",Female,2012,NA,NA
+117,Professional degree,"Agriculture, natural resources and conservation",Female,2012,NA,NA
+118,Professional degree,Health and related fields,Female,2012,2310,98200
+119,Professional degree,"Personal, protective and transportation services",Female,2012,NA,NA
+120,Professional degree,Other instructional programs,Female,2012,NA,NA
+121,Master's degree,Education,Female,2012,3150,85200
+122,Master's degree,"Visual and performing arts, and communications technologies",Female,2012,470,34700
+123,Master's degree,Humanities,Female,2012,920,48300
+124,Master's degree,Social and behavioural sciences and law,Female,2012,3010,62200
+125,Master's degree,"Business, management and public administration",Female,2012,4840,80900
+126,Master's degree,Physical and life sciences and technologies,Female,2012,1100,59300
+127,Master's degree,"Mathematics, computer and information sciences",Female,2012,740,67400
+128,Master's degree,"Architecture, engineering, and related technologies",Female,2012,1260,66900
+129,Master's degree,"Agriculture, natural resources and conservation",Female,2012,540,58200
+130,Master's degree,Health and related fields,Female,2012,3580,74600
+131,Master's degree,"Personal, protective and transportation services",Female,2012,30,76600
+132,Master's degree,Other instructional programs,Female,2012,60,52000
+133,Doctoral degree,Education,Female,2012,210,95100
+134,Doctoral degree,"Visual and performing arts, and communications technologies",Female,2012,50,28900
+135,Doctoral degree,Humanities,Female,2012,200,67700
+136,Doctoral degree,Social and behavioural sciences and law,Female,2012,660,83200
+137,Doctoral degree,"Business, management and public administration",Female,2012,70,112600
+138,Doctoral degree,Physical and life sciences and technologies,Female,2012,540,69800
+139,Doctoral degree,"Mathematics, computer and information sciences",Female,2012,70,92200
+140,Doctoral degree,"Architecture, engineering, and related technologies",Female,2012,190,78600
+141,Doctoral degree,"Agriculture, natural resources and conservation",Female,2012,80,75900
+142,Doctoral degree,Health and related fields,Female,2012,260,92400
+143,Doctoral degree,"Personal, protective and transportation services",Female,2012,NA,NA
+144,Doctoral degree,Other instructional programs,Female,2012,20,90800
+1,"Career, technical or professional training certificate",Education,Male,2013,90,41600
+2,"Career, technical or professional training certificate","Visual and performing arts, and communications technologies",Male,2013,380,35400
+3,"Career, technical or professional training certificate",Humanities,Male,2013,30,38000
+4,"Career, technical or professional training certificate",Social and behavioural sciences and law,Male,2013,150,44800
+5,"Career, technical or professional training certificate","Business, management and public administration",Male,2013,810,51500
+6,"Career, technical or professional training certificate",Physical and life sciences and technologies,Male,2013,NA,NA
+7,"Career, technical or professional training certificate","Mathematics, computer and information sciences",Male,2013,370,55100
+8,"Career, technical or professional training certificate","Architecture, engineering, and related technologies",Male,2013,8520,53100
+9,"Career, technical or professional training certificate","Agriculture, natural resources and conservation",Male,2013,150,54200
+10,"Career, technical or professional training certificate",Health and related fields,Male,2013,1200,55800
+11,"Career, technical or professional training certificate","Personal, protective and transportation services",Male,2013,1370,53000
+12,"Career, technical or professional training certificate",Other instructional programs,Male,2013,NA,NA
+13,"Career, technical or professional training diploma",Education,Male,2013,300,57100
+14,"Career, technical or professional training diploma","Visual and performing arts, and communications technologies",Male,2013,980,37400
+15,"Career, technical or professional training diploma",Humanities,Male,2013,160,36300
+16,"Career, technical or professional training diploma",Social and behavioural sciences and law,Male,2013,530,47800
+17,"Career, technical or professional training diploma","Business, management and public administration",Male,2013,4080,51300
+18,"Career, technical or professional training diploma",Physical and life sciences and technologies,Male,2013,230,47600
+19,"Career, technical or professional training diploma","Mathematics, computer and information sciences",Male,2013,880,52400
+20,"Career, technical or professional training diploma","Architecture, engineering, and related technologies",Male,2013,5610,62400
+21,"Career, technical or professional training diploma","Agriculture, natural resources and conservation",Male,2013,610,52300
+22,"Career, technical or professional training diploma",Health and related fields,Male,2013,1510,63200
+23,"Career, technical or professional training diploma","Personal, protective and transportation services",Male,2013,1450,63000
+24,"Career, technical or professional training diploma",Other instructional programs,Male,2013,100,55900
+25,Undergraduate degree,Education,Male,2013,4190,63000
+26,Undergraduate degree,"Visual and performing arts, and communications technologies",Male,2013,2230,41300
+27,Undergraduate degree,Humanities,Male,2013,4680,51100
+28,Undergraduate degree,Social and behavioural sciences and law,Male,2013,10180,56200
+29,Undergraduate degree,"Business, management and public administration",Male,2013,14500,67600
+30,Undergraduate degree,Physical and life sciences and technologies,Male,2013,4510,58900
+31,Undergraduate degree,"Mathematics, computer and information sciences",Male,2013,2530,75000
+32,Undergraduate degree,"Architecture, engineering, and related technologies",Male,2013,9710,79000
+33,Undergraduate degree,"Agriculture, natural resources and conservation",Male,2013,930,60600
+34,Undergraduate degree,Health and related fields,Male,2013,3650,67100
+35,Undergraduate degree,"Personal, protective and transportation services",Male,2013,450,70600
+36,Undergraduate degree,Other instructional programs,Male,2013,360,56200
+37,Professional degree,Education,Male,2013,NA,NA
+38,Professional degree,"Visual and performing arts, and communications technologies",Male,2013,NA,NA
+39,Professional degree,Humanities,Male,2013,NA,NA
+40,Professional degree,Social and behavioural sciences and law,Male,2013,1580,101900
+41,Professional degree,"Business, management and public administration",Male,2013,NA,NA
+42,Professional degree,Physical and life sciences and technologies,Male,2013,NA,NA
+43,Professional degree,"Mathematics, computer and information sciences",Male,2013,NA,NA
+44,Professional degree,"Architecture, engineering, and related technologies",Male,2013,NA,NA
+45,Professional degree,"Agriculture, natural resources and conservation",Male,2013,NA,NA
+46,Professional degree,Health and related fields,Male,2013,1420,116800
+47,Professional degree,"Personal, protective and transportation services",Male,2013,NA,NA
+48,Professional degree,Other instructional programs,Male,2013,NA,NA
+49,Master's degree,Education,Male,2013,1070,94900
+50,Master's degree,"Visual and performing arts, and communications technologies",Male,2013,340,38500
+51,Master's degree,Humanities,Male,2013,540,53200
+52,Master's degree,Social and behavioural sciences and law,Male,2013,1560,73400
+53,Master's degree,"Business, management and public administration",Male,2013,5140,102200
+54,Master's degree,Physical and life sciences and technologies,Male,2013,940,68500
+55,Master's degree,"Mathematics, computer and information sciences",Male,2013,1060,85200
+56,Master's degree,"Architecture, engineering, and related technologies",Male,2013,3560,82100
+57,Master's degree,"Agriculture, natural resources and conservation",Male,2013,400,71500
+58,Master's degree,Health and related fields,Male,2013,1030,82300
+59,Master's degree,"Personal, protective and transportation services",Male,2013,40,103800
+60,Master's degree,Other instructional programs,Male,2013,70,73200
+61,Doctoral degree,Education,Male,2013,60,105500
+62,Doctoral degree,"Visual and performing arts, and communications technologies",Male,2013,40,65400
+63,Doctoral degree,Humanities,Male,2013,220,70800
+64,Doctoral degree,Social and behavioural sciences and law,Male,2013,350,92500
+65,Doctoral degree,"Business, management and public administration",Male,2013,100,114500
+66,Doctoral degree,Physical and life sciences and technologies,Male,2013,680,79000
+67,Doctoral degree,"Mathematics, computer and information sciences",Male,2013,210,104900
+68,Doctoral degree,"Architecture, engineering, and related technologies",Male,2013,810,100000
+69,Doctoral degree,"Agriculture, natural resources and conservation",Male,2013,90,84100
+70,Doctoral degree,Health and related fields,Male,2013,180,97000
+71,Doctoral degree,"Personal, protective and transportation services",Male,2013,10,NA
+72,Doctoral degree,Other instructional programs,Male,2013,20,84800
+73,"Career, technical or professional training certificate",Education,Female,2013,710,32100
+74,"Career, technical or professional training certificate","Visual and performing arts, and communications technologies",Female,2013,500,35200
+75,"Career, technical or professional training certificate",Humanities,Female,2013,110,32400
+76,"Career, technical or professional training certificate",Social and behavioural sciences and law,Female,2013,1420,37600
+77,"Career, technical or professional training certificate","Business, management and public administration",Female,2013,3360,41200
+78,"Career, technical or professional training certificate",Physical and life sciences and technologies,Female,2013,0,NA
+79,"Career, technical or professional training certificate","Mathematics, computer and information sciences",Female,2013,170,41100
+80,"Career, technical or professional training certificate","Architecture, engineering, and related technologies",Female,2013,970,43200
+81,"Career, technical or professional training certificate","Agriculture, natural resources and conservation",Female,2013,90,37500
+82,"Career, technical or professional training certificate",Health and related fields,Female,2013,5860,40200
+83,"Career, technical or professional training certificate","Personal, protective and transportation services",Female,2013,1120,29200
+84,"Career, technical or professional training certificate",Other instructional programs,Female,2013,NA,NA
+85,"Career, technical or professional training diploma",Education,Female,2013,1430,37900
+86,"Career, technical or professional training diploma","Visual and performing arts, and communications technologies",Female,2013,1730,35500
+87,"Career, technical or professional training diploma",Humanities,Female,2013,270,34300
+88,"Career, technical or professional training diploma",Social and behavioural sciences and law,Female,2013,2440,37800
+89,"Career, technical or professional training diploma","Business, management and public administration",Female,2013,6520,42900
+90,"Career, technical or professional training diploma",Physical and life sciences and technologies,Female,2013,200,42700
+91,"Career, technical or professional training diploma","Mathematics, computer and information sciences",Female,2013,400,43000
+92,"Career, technical or professional training diploma","Architecture, engineering, and related technologies",Female,2013,1010,52000
+93,"Career, technical or professional training diploma","Agriculture, natural resources and conservation",Female,2013,450,42800
+94,"Career, technical or professional training diploma",Health and related fields,Female,2013,7450,52100
+95,"Career, technical or professional training diploma","Personal, protective and transportation services",Female,2013,870,42700
+96,"Career, technical or professional training diploma",Other instructional programs,Female,2013,40,45000
+97,Undergraduate degree,Education,Female,2013,12780,55100
+98,Undergraduate degree,"Visual and performing arts, and communications technologies",Female,2013,4240,38500
+99,Undergraduate degree,Humanities,Female,2013,8450,47400
+100,Undergraduate degree,Social and behavioural sciences and law,Female,2013,21330,50100
+101,Undergraduate degree,"Business, management and public administration",Female,2013,17180,59000
+102,Undergraduate degree,Physical and life sciences and technologies,Female,2013,6220,56100
+103,Undergraduate degree,"Mathematics, computer and information sciences",Female,2013,810,60800
+104,Undergraduate degree,"Architecture, engineering, and related technologies",Female,2013,2680,68400
+105,Undergraduate degree,"Agriculture, natural resources and conservation",Female,2013,1290,52800
+106,Undergraduate degree,Health and related fields,Female,2013,14220,69900
+107,Undergraduate degree,"Personal, protective and transportation services",Female,2013,490,55000
+108,Undergraduate degree,Other instructional programs,Female,2013,750,51000
+109,Professional degree,Education,Female,2013,NA,NA
+110,Professional degree,"Visual and performing arts, and communications technologies",Female,2013,NA,NA
+111,Professional degree,Humanities,Female,2013,NA,NA
+112,Professional degree,Social and behavioural sciences and law,Female,2013,2030,82800
+113,Professional degree,"Business, management and public administration",Female,2013,NA,NA
+114,Professional degree,Physical and life sciences and technologies,Female,2013,NA,NA
+115,Professional degree,"Mathematics, computer and information sciences",Female,2013,NA,NA
+116,Professional degree,"Architecture, engineering, and related technologies",Female,2013,NA,NA
+117,Professional degree,"Agriculture, natural resources and conservation",Female,2013,NA,NA
+118,Professional degree,Health and related fields,Female,2013,2360,101400
+119,Professional degree,"Personal, protective and transportation services",Female,2013,NA,NA
+120,Professional degree,Other instructional programs,Female,2013,NA,NA
+121,Master's degree,Education,Female,2013,3300,84300
+122,Master's degree,"Visual and performing arts, and communications technologies",Female,2013,520,37000
+123,Master's degree,Humanities,Female,2013,840,50100
+124,Master's degree,Social and behavioural sciences and law,Female,2013,3140,64200
+125,Master's degree,"Business, management and public administration",Female,2013,4990,80100
+126,Master's degree,Physical and life sciences and technologies,Female,2013,1120,60300
+127,Master's degree,"Mathematics, computer and information sciences",Female,2013,900,68800
+128,Master's degree,"Architecture, engineering, and related technologies",Female,2013,1450,67600
+129,Master's degree,"Agriculture, natural resources and conservation",Female,2013,650,59900
+130,Master's degree,Health and related fields,Female,2013,3940,72800
+131,Master's degree,"Personal, protective and transportation services",Female,2013,50,79800
+132,Master's degree,Other instructional programs,Female,2013,150,70700
+133,Doctoral degree,Education,Female,2013,240,95100
+134,Doctoral degree,"Visual and performing arts, and communications technologies",Female,2013,60,48100
+135,Doctoral degree,Humanities,Female,2013,210,67300
+136,Doctoral degree,Social and behavioural sciences and law,Female,2013,670,81500
+137,Doctoral degree,"Business, management and public administration",Female,2013,90,111500
+138,Doctoral degree,Physical and life sciences and technologies,Female,2013,560,69600
+139,Doctoral degree,"Mathematics, computer and information sciences",Female,2013,80,88700
+140,Doctoral degree,"Architecture, engineering, and related technologies",Female,2013,190,83200
+141,Doctoral degree,"Agriculture, natural resources and conservation",Female,2013,70,71000
+142,Doctoral degree,Health and related fields,Female,2013,310,95700
+143,Doctoral degree,"Personal, protective and transportation services",Female,2013,NA,NA
+144,Doctoral degree,Other instructional programs,Female,2013,40,83400
+1,"Career, technical or professional training certificate",Education,Male,2014,140,43700
+2,"Career, technical or professional training certificate","Visual and performing arts, and communications technologies",Male,2014,690,32600
+3,"Career, technical or professional training certificate",Humanities,Male,2014,750,32600
+4,"Career, technical or professional training certificate",Social and behavioural sciences and law,Male,2014,350,35000
+5,"Career, technical or professional training certificate","Business, management and public administration",Male,2014,1420,48500
+6,"Career, technical or professional training certificate",Physical and life sciences and technologies,Male,2014,10,NA
+7,"Career, technical or professional training certificate","Mathematics, computer and information sciences",Male,2014,390,51300
+8,"Career, technical or professional training certificate","Architecture, engineering, and related technologies",Male,2014,11880,52000
+9,"Career, technical or professional training certificate","Agriculture, natural resources and conservation",Male,2014,240,52900
+10,"Career, technical or professional training certificate",Health and related fields,Male,2014,1900,49900
+11,"Career, technical or professional training certificate","Personal, protective and transportation services",Male,2014,2430,48400
+12,"Career, technical or professional training certificate",Other instructional programs,Male,2014,20,NA
+13,"Career, technical or professional training diploma",Education,Male,2014,300,54700
+14,"Career, technical or professional training diploma","Visual and performing arts, and communications technologies",Male,2014,2140,36600
+15,"Career, technical or professional training diploma",Humanities,Male,2014,760,41900
+16,"Career, technical or professional training diploma",Social and behavioural sciences and law,Male,2014,1590,45000
+17,"Career, technical or professional training diploma","Business, management and public administration",Male,2014,8840,48000
+18,"Career, technical or professional training diploma",Physical and life sciences and technologies,Male,2014,590,49400
+19,"Career, technical or professional training diploma","Mathematics, computer and information sciences",Male,2014,2090,56000
+20,"Career, technical or professional training diploma","Architecture, engineering, and related technologies",Male,2014,13110,61200
+21,"Career, technical or professional training diploma","Agriculture, natural resources and conservation",Male,2014,1020,50500
+22,"Career, technical or professional training diploma",Health and related fields,Male,2014,3400,57100
+23,"Career, technical or professional training diploma","Personal, protective and transportation services",Male,2014,4410,51500
+24,"Career, technical or professional training diploma",Other instructional programs,Male,2014,110,49800
+25,Undergraduate degree,Education,Male,2014,3970,63200
+26,Undergraduate degree,"Visual and performing arts, and communications technologies",Male,2014,2250,40300
+27,Undergraduate degree,Humanities,Male,2014,4380,50500
+28,Undergraduate degree,Social and behavioural sciences and law,Male,2014,10160,57200
+29,Undergraduate degree,"Business, management and public administration",Male,2014,15020,68500
+30,Undergraduate degree,Physical and life sciences and technologies,Male,2014,4660,59200
+31,Undergraduate degree,"Mathematics, computer and information sciences",Male,2014,2730,76500
+32,Undergraduate degree,"Architecture, engineering, and related technologies",Male,2014,9960,79200
+33,Undergraduate degree,"Agriculture, natural resources and conservation",Male,2014,1020,61700
+34,Undergraduate degree,Health and related fields,Male,2014,3880,67300
+35,Undergraduate degree,"Personal, protective and transportation services",Male,2014,570,70500
+36,Undergraduate degree,Other instructional programs,Male,2014,360,59700
+37,Professional degree,Education,Male,2014,NA,NA
+38,Professional degree,"Visual and performing arts, and communications technologies",Male,2014,NA,NA
+39,Professional degree,Humanities,Male,2014,NA,NA
+40,Professional degree,Social and behavioural sciences and law,Male,2014,1550,100200
+41,Professional degree,"Business, management and public administration",Male,2014,NA,NA
+42,Professional degree,Physical and life sciences and technologies,Male,2014,NA,NA
+43,Professional degree,"Mathematics, computer and information sciences",Male,2014,NA,NA
+44,Professional degree,"Architecture, engineering, and related technologies",Male,2014,NA,NA
+45,Professional degree,"Agriculture, natural resources and conservation",Male,2014,NA,NA
+46,Professional degree,Health and related fields,Male,2014,1480,115800
+47,Professional degree,"Personal, protective and transportation services",Male,2014,NA,NA
+48,Professional degree,Other instructional programs,Male,2014,NA,NA
+49,Master's degree,Education,Male,2014,1010,93900
+50,Master's degree,"Visual and performing arts, and communications technologies",Male,2014,310,40700
+51,Master's degree,Humanities,Male,2014,590,54300
+52,Master's degree,Social and behavioural sciences and law,Male,2014,1570,73300
+53,Master's degree,"Business, management and public administration",Male,2014,5140,102300
+54,Master's degree,Physical and life sciences and technologies,Male,2014,910,69400
+55,Master's degree,"Mathematics, computer and information sciences",Male,2014,1070,85300
+56,Master's degree,"Architecture, engineering, and related technologies",Male,2014,3740,81900
+57,Master's degree,"Agriculture, natural resources and conservation",Male,2014,410,70700
+58,Master's degree,Health and related fields,Male,2014,1090,81300
+59,Master's degree,"Personal, protective and transportation services",Male,2014,80,96000
+60,Master's degree,Other instructional programs,Male,2014,70,78600
+61,Doctoral degree,Education,Male,2014,90,106800
+62,Doctoral degree,"Visual and performing arts, and communications technologies",Male,2014,70,44700
+63,Doctoral degree,Humanities,Male,2014,190,74900
+64,Doctoral degree,Social and behavioural sciences and law,Male,2014,390,94400
+65,Doctoral degree,"Business, management and public administration",Male,2014,100,132500
+66,Doctoral degree,Physical and life sciences and technologies,Male,2014,700,81400
+67,Doctoral degree,"Mathematics, computer and information sciences",Male,2014,210,99600
+68,Doctoral degree,"Architecture, engineering, and related technologies",Male,2014,820,100500
+69,Doctoral degree,"Agriculture, natural resources and conservation",Male,2014,90,73100
+70,Doctoral degree,Health and related fields,Male,2014,170,103400
+71,Doctoral degree,"Personal, protective and transportation services",Male,2014,0,NA
+72,Doctoral degree,Other instructional programs,Male,2014,20,NA
+73,"Career, technical or professional training certificate",Education,Female,2014,860,32800
+74,"Career, technical or professional training certificate","Visual and performing arts, and communications technologies",Female,2014,990,30600
+75,"Career, technical or professional training certificate",Humanities,Female,2014,1100,32700
+76,"Career, technical or professional training certificate",Social and behavioural sciences and law,Female,2014,1830,36300
+77,"Career, technical or professional training certificate","Business, management and public administration",Female,2014,4780,40700
+78,"Career, technical or professional training certificate",Physical and life sciences and technologies,Female,2014,20,NA
+79,"Career, technical or professional training certificate","Mathematics, computer and information sciences",Female,2014,200,48100
+80,"Career, technical or professional training certificate","Architecture, engineering, and related technologies",Female,2014,1290,42300
+81,"Career, technical or professional training certificate","Agriculture, natural resources and conservation",Female,2014,180,31000
+82,"Career, technical or professional training certificate",Health and related fields,Female,2014,10670,39600
+83,"Career, technical or professional training certificate","Personal, protective and transportation services",Female,2014,2290,31000
+84,"Career, technical or professional training certificate",Other instructional programs,Female,2014,0,NA
+85,"Career, technical or professional training diploma",Education,Female,2014,1750,37800
+86,"Career, technical or professional training diploma","Visual and performing arts, and communications technologies",Female,2014,3000,34400
+87,"Career, technical or professional training diploma",Humanities,Female,2014,770,37300
+88,"Career, technical or professional training diploma",Social and behavioural sciences and law,Female,2014,8930,38400
+89,"Career, technical or professional training diploma","Business, management and public administration",Female,2014,13330,41800
+90,"Career, technical or professional training diploma",Physical and life sciences and technologies,Female,2014,590,43300
+91,"Career, technical or professional training diploma","Mathematics, computer and information sciences",Female,2014,740,44600
+92,"Career, technical or professional training diploma","Architecture, engineering, and related technologies",Female,2014,2050,50100
+93,"Career, technical or professional training diploma","Agriculture, natural resources and conservation",Female,2014,760,39700
+94,"Career, technical or professional training diploma",Health and related fields,Female,2014,13840,49400
+95,"Career, technical or professional training diploma","Personal, protective and transportation services",Female,2014,3460,38100
+96,"Career, technical or professional training diploma",Other instructional programs,Female,2014,50,37300
+97,Undergraduate degree,Education,Female,2014,12520,56200
+98,Undergraduate degree,"Visual and performing arts, and communications technologies",Female,2014,4390,39400
+99,Undergraduate degree,Humanities,Female,2014,8370,48100
+100,Undergraduate degree,Social and behavioural sciences and law,Female,2014,21570,50900
+101,Undergraduate degree,"Business, management and public administration",Female,2014,17220,59400
+102,Undergraduate degree,Physical and life sciences and technologies,Female,2014,6340,57800
+103,Undergraduate degree,"Mathematics, computer and information sciences",Female,2014,860,65600
+104,Undergraduate degree,"Architecture, engineering, and related technologies",Female,2014,2720,67800
+105,Undergraduate degree,"Agriculture, natural resources and conservation",Female,2014,1360,54100
+106,Undergraduate degree,Health and related fields,Female,2014,14520,69700
+107,Undergraduate degree,"Personal, protective and transportation services",Female,2014,540,56900
+108,Undergraduate degree,Other instructional programs,Female,2014,790,52100
+109,Professional degree,Education,Female,2014,NA,NA
+110,Professional degree,"Visual and performing arts, and communications technologies",Female,2014,NA,NA
+111,Professional degree,Humanities,Female,2014,NA,NA
+112,Professional degree,Social and behavioural sciences and law,Female,2014,2080,85600
+113,Professional degree,"Business, management and public administration",Female,2014,NA,NA
+114,Professional degree,Physical and life sciences and technologies,Female,2014,NA,NA
+115,Professional degree,"Mathematics, computer and information sciences",Female,2014,NA,NA
+116,Professional degree,"Architecture, engineering, and related technologies",Female,2014,NA,NA
+117,Professional degree,"Agriculture, natural resources and conservation",Female,2014,NA,NA
+118,Professional degree,Health and related fields,Female,2014,2400,102500
+119,Professional degree,"Personal, protective and transportation services",Female,2014,NA,NA
+120,Professional degree,Other instructional programs,Female,2014,NA,NA
+121,Master's degree,Education,Female,2014,3270,82600
+122,Master's degree,"Visual and performing arts, and communications technologies",Female,2014,530,39400
+123,Master's degree,Humanities,Female,2014,900,50200
+124,Master's degree,Social and behavioural sciences and law,Female,2014,3150,62800
+125,Master's degree,"Business, management and public administration",Female,2014,5470,80300
+126,Master's degree,Physical and life sciences and technologies,Female,2014,1080,60100
+127,Master's degree,"Mathematics, computer and information sciences",Female,2014,890,68000
+128,Master's degree,"Architecture, engineering, and related technologies",Female,2014,1490,67600
+129,Master's degree,"Agriculture, natural resources and conservation",Female,2014,670,63500
+130,Master's degree,Health and related fields,Female,2014,3900,75800
+131,Master's degree,"Personal, protective and transportation services",Female,2014,30,74700
+132,Master's degree,Other instructional programs,Female,2014,130,72900
+133,Doctoral degree,Education,Female,2014,240,96800
+134,Doctoral degree,"Visual and performing arts, and communications technologies",Female,2014,70,37100
+135,Doctoral degree,Humanities,Female,2014,220,65000
+136,Doctoral degree,Social and behavioural sciences and law,Female,2014,670,84900
+137,Doctoral degree,"Business, management and public administration",Female,2014,100,107700
+138,Doctoral degree,Physical and life sciences and technologies,Female,2014,540,70100
+139,Doctoral degree,"Mathematics, computer and information sciences",Female,2014,80,88900
+140,Doctoral degree,"Architecture, engineering, and related technologies",Female,2014,230,84900
+141,Doctoral degree,"Agriculture, natural resources and conservation",Female,2014,80,62600
+142,Doctoral degree,Health and related fields,Female,2014,290,101100
+143,Doctoral degree,"Personal, protective and transportation services",Female,2014,NA,NA
+144,Doctoral degree,Other instructional programs,Female,2014,40,95300
+1,"Career, technical or professional training certificate",Education,Male,2015,120,42100
+2,"Career, technical or professional training certificate","Visual and performing arts, and communications technologies",Male,2015,740,25300
+3,"Career, technical or professional training certificate",Humanities,Male,2015,670,31500
+4,"Career, technical or professional training certificate",Social and behavioural sciences and law,Male,2015,250,37500
+5,"Career, technical or professional training certificate","Business, management and public administration",Male,2015,1380,49300
+6,"Career, technical or professional training certificate",Physical and life sciences and technologies,Male,2015,10,NA
+7,"Career, technical or professional training certificate","Mathematics, computer and information sciences",Male,2015,470,55200
+8,"Career, technical or professional training certificate","Architecture, engineering, and related technologies",Male,2015,11630,48600
+9,"Career, technical or professional training certificate","Agriculture, natural resources and conservation",Male,2015,260,46600
+10,"Career, technical or professional training certificate",Health and related fields,Male,2015,1800,50500
+11,"Career, technical or professional training certificate","Personal, protective and transportation services",Male,2015,2350,47200
+12,"Career, technical or professional training certificate",Other instructional programs,Male,2015,0,NA
+13,"Career, technical or professional training diploma",Education,Male,2015,340,57700
+14,"Career, technical or professional training diploma","Visual and performing arts, and communications technologies",Male,2015,2270,34900
+15,"Career, technical or professional training diploma",Humanities,Male,2015,720,38600
+16,"Career, technical or professional training diploma",Social and behavioural sciences and law,Male,2015,1760,43900
+17,"Career, technical or professional training diploma","Business, management and public administration",Male,2015,9270,47500
+18,"Career, technical or professional training diploma",Physical and life sciences and technologies,Male,2015,600,49200
+19,"Career, technical or professional training diploma","Mathematics, computer and information sciences",Male,2015,2450,57400
+20,"Career, technical or professional training diploma","Architecture, engineering, and related technologies",Male,2015,13200,58600
+21,"Career, technical or professional training diploma","Agriculture, natural resources and conservation",Male,2015,1000,51100
+22,"Career, technical or professional training diploma",Health and related fields,Male,2015,3240,59200
+23,"Career, technical or professional training diploma","Personal, protective and transportation services",Male,2015,4460,53300
+24,"Career, technical or professional training diploma",Other instructional programs,Male,2015,90,52800
+25,Undergraduate degree,Education,Male,2015,3810,64100
+26,Undergraduate degree,"Visual and performing arts, and communications technologies",Male,2015,2360,38300
+27,Undergraduate degree,Humanities,Male,2015,4140,50300
+28,Undergraduate degree,Social and behavioural sciences and law,Male,2015,10510,58800
+29,Undergraduate degree,"Business, management and public administration",Male,2015,15010,68800
+30,Undergraduate degree,Physical and life sciences and technologies,Male,2015,4720,60500
+31,Undergraduate degree,"Mathematics, computer and information sciences",Male,2015,3080,78700
+32,Undergraduate degree,"Architecture, engineering, and related technologies",Male,2015,10690,79100
+33,Undergraduate degree,"Agriculture, natural resources and conservation",Male,2015,970,58900
+34,Undergraduate degree,Health and related fields,Male,2015,4020,66800
+35,Undergraduate degree,"Personal, protective and transportation services",Male,2015,580,71800
+36,Undergraduate degree,Other instructional programs,Male,2015,400,60900
+37,Professional degree,Education,Male,2015,NA,NA
+38,Professional degree,"Visual and performing arts, and communications technologies",Male,2015,NA,NA
+39,Professional degree,Humanities,Male,2015,NA,NA
+40,Professional degree,Social and behavioural sciences and law,Male,2015,1570,103600
+41,Professional degree,"Business, management and public administration",Male,2015,NA,NA
+42,Professional degree,Physical and life sciences and technologies,Male,2015,NA,NA
+43,Professional degree,"Mathematics, computer and information sciences",Male,2015,NA,NA
+44,Professional degree,"Architecture, engineering, and related technologies",Male,2015,NA,NA
+45,Professional degree,"Agriculture, natural resources and conservation",Male,2015,NA,NA
+46,Professional degree,Health and related fields,Male,2015,1520,120800
+47,Professional degree,"Personal, protective and transportation services",Male,2015,NA,NA
+48,Professional degree,Other instructional programs,Male,2015,NA,NA
+49,Master's degree,Education,Male,2015,1150,93200
+50,Master's degree,"Visual and performing arts, and communications technologies",Male,2015,270,37300
+51,Master's degree,Humanities,Male,2015,650,52800
+52,Master's degree,Social and behavioural sciences and law,Male,2015,1600,74400
+53,Master's degree,"Business, management and public administration",Male,2015,5240,100800
+54,Master's degree,Physical and life sciences and technologies,Male,2015,910,70100
+55,Master's degree,"Mathematics, computer and information sciences",Male,2015,1110,92500
+56,Master's degree,"Architecture, engineering, and related technologies",Male,2015,4090,81300
+57,Master's degree,"Agriculture, natural resources and conservation",Male,2015,420,72200
+58,Master's degree,Health and related fields,Male,2015,1180,81900
+59,Master's degree,"Personal, protective and transportation services",Male,2015,70,95900
+60,Master's degree,Other instructional programs,Male,2015,70,89700
+61,Doctoral degree,Education,Male,2015,100,99700
+62,Doctoral degree,"Visual and performing arts, and communications technologies",Male,2015,70,47700
+63,Doctoral degree,Humanities,Male,2015,220,66000
+64,Doctoral degree,Social and behavioural sciences and law,Male,2015,380,95200
+65,Doctoral degree,"Business, management and public administration",Male,2015,100,118700
+66,Doctoral degree,Physical and life sciences and technologies,Male,2015,760,80500
+67,Doctoral degree,"Mathematics, computer and information sciences",Male,2015,220,111200
+68,Doctoral degree,"Architecture, engineering, and related technologies",Male,2015,920,100100
+69,Doctoral degree,"Agriculture, natural resources and conservation",Male,2015,100,81200
+70,Doctoral degree,Health and related fields,Male,2015,160,99600
+71,Doctoral degree,"Personal, protective and transportation services",Male,2015,NA,NA
+72,Doctoral degree,Other instructional programs,Male,2015,20,85200
+73,"Career, technical or professional training certificate",Education,Female,2015,830,30700
+74,"Career, technical or professional training certificate","Visual and performing arts, and communications technologies",Female,2015,910,26200
+75,"Career, technical or professional training certificate",Humanities,Female,2015,1090,32100
+76,"Career, technical or professional training certificate",Social and behavioural sciences and law,Female,2015,1940,34000
+77,"Career, technical or professional training certificate","Business, management and public administration",Female,2015,4540,39800
+78,"Career, technical or professional training certificate",Physical and life sciences and technologies,Female,2015,NA,NA
+79,"Career, technical or professional training certificate","Mathematics, computer and information sciences",Female,2015,180,39400
+80,"Career, technical or professional training certificate","Architecture, engineering, and related technologies",Female,2015,1370,39000
+81,"Career, technical or professional training certificate","Agriculture, natural resources and conservation",Female,2015,260,27000
+82,"Career, technical or professional training certificate",Health and related fields,Female,2015,10380,40700
+83,"Career, technical or professional training certificate","Personal, protective and transportation services",Female,2015,2150,26800
+84,"Career, technical or professional training certificate",Other instructional programs,Female,2015,10,NA
+85,"Career, technical or professional training diploma",Education,Female,2015,1810,38700
+86,"Career, technical or professional training diploma","Visual and performing arts, and communications technologies",Female,2015,3130,31900
+87,"Career, technical or professional training diploma",Humanities,Female,2015,750,35200
+88,"Career, technical or professional training diploma",Social and behavioural sciences and law,Female,2015,9660,35400
+89,"Career, technical or professional training diploma","Business, management and public administration",Female,2015,14170,40700
+90,"Career, technical or professional training diploma",Physical and life sciences and technologies,Female,2015,690,46000
+91,"Career, technical or professional training diploma","Mathematics, computer and information sciences",Female,2015,840,44700
+92,"Career, technical or professional training diploma","Architecture, engineering, and related technologies",Female,2015,2180,48900
+93,"Career, technical or professional training diploma","Agriculture, natural resources and conservation",Female,2015,800,38700
+94,"Career, technical or professional training diploma",Health and related fields,Female,2015,13710,50600
+95,"Career, technical or professional training diploma","Personal, protective and transportation services",Female,2015,3360,36000
+96,"Career, technical or professional training diploma",Other instructional programs,Female,2015,20,59300
+97,Undergraduate degree,Education,Female,2015,12160,57000
+98,Undergraduate degree,"Visual and performing arts, and communications technologies",Female,2015,4310,36500
+99,Undergraduate degree,Humanities,Female,2015,7290,47200
+100,Undergraduate degree,Social and behavioural sciences and law,Female,2015,22430,51100
+101,Undergraduate degree,"Business, management and public administration",Female,2015,17170,60500
+102,Undergraduate degree,Physical and life sciences and technologies,Female,2015,6820,57400
+103,Undergraduate degree,"Mathematics, computer and information sciences",Female,2015,940,68700
+104,Undergraduate degree,"Architecture, engineering, and related technologies",Female,2015,2880,68900
+105,Undergraduate degree,"Agriculture, natural resources and conservation",Female,2015,1410,54200
+106,Undergraduate degree,Health and related fields,Female,2015,14780,72100
+107,Undergraduate degree,"Personal, protective and transportation services",Female,2015,670,54900
+108,Undergraduate degree,Other instructional programs,Female,2015,850,53300
+109,Professional degree,Education,Female,2015,NA,NA
+110,Professional degree,"Visual and performing arts, and communications technologies",Female,2015,NA,NA
+111,Professional degree,Humanities,Female,2015,NA,NA
+112,Professional degree,Social and behavioural sciences and law,Female,2015,1990,87400
+113,Professional degree,"Business, management and public administration",Female,2015,NA,NA
+114,Professional degree,Physical and life sciences and technologies,Female,2015,NA,NA
+115,Professional degree,"Mathematics, computer and information sciences",Female,2015,NA,NA
+116,Professional degree,"Architecture, engineering, and related technologies",Female,2015,NA,NA
+117,Professional degree,"Agriculture, natural resources and conservation",Female,2015,NA,NA
+118,Professional degree,Health and related fields,Female,2015,2420,102100
+119,Professional degree,"Personal, protective and transportation services",Female,2015,NA,NA
+120,Professional degree,Other instructional programs,Female,2015,NA,NA
+121,Master's degree,Education,Female,2015,3460,84900
+122,Master's degree,"Visual and performing arts, and communications technologies",Female,2015,520,38800
+123,Master's degree,Humanities,Female,2015,860,50100
+124,Master's degree,Social and behavioural sciences and law,Female,2015,3330,65600
+125,Master's degree,"Business, management and public administration",Female,2015,5720,82300
+126,Master's degree,Physical and life sciences and technologies,Female,2015,1070,64600
+127,Master's degree,"Mathematics, computer and information sciences",Female,2015,860,70000
+128,Master's degree,"Architecture, engineering, and related technologies",Female,2015,1620,68600
+129,Master's degree,"Agriculture, natural resources and conservation",Female,2015,680,63500
+130,Master's degree,Health and related fields,Female,2015,4230,75100
+131,Master's degree,"Personal, protective and transportation services",Female,2015,40,70300
+132,Master's degree,Other instructional programs,Female,2015,150,74800
+133,Doctoral degree,Education,Female,2015,250,100400
+134,Doctoral degree,"Visual and performing arts, and communications technologies",Female,2015,50,48100
+135,Doctoral degree,Humanities,Female,2015,240,71400
+136,Doctoral degree,Social and behavioural sciences and law,Female,2015,740,82100
+137,Doctoral degree,"Business, management and public administration",Female,2015,100,112400
+138,Doctoral degree,Physical and life sciences and technologies,Female,2015,610,74300
+139,Doctoral degree,"Mathematics, computer and information sciences",Female,2015,80,101400
+140,Doctoral degree,"Architecture, engineering, and related technologies",Female,2015,260,91200
+141,Doctoral degree,"Agriculture, natural resources and conservation",Female,2015,90,70000
+142,Doctoral degree,Health and related fields,Female,2015,360,99100
+143,Doctoral degree,"Personal, protective and transportation services",Female,2015,NA,NA
+144,Doctoral degree,Other instructional programs,Female,2015,40,89000
