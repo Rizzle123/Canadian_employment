@@ -5,7 +5,7 @@ This study seeks to answer the question, "What influence does one’s educationa
 The following are available for review:
 
 1. Dataframes
-2. Code use for the study
+2. Code used for the study
 3. Final pdf report
 4. Microsoft PowerPoint presentation
 
